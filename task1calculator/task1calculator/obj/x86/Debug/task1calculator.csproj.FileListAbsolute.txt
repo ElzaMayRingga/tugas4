@@ -1,0 +1,7 @@
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\bin\Debug\task1calculator.exe
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\bin\Debug\task1calculator.pdb
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\obj\x86\Debug\Calculator.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\obj\x86\Debug\task1calculator.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\obj\x86\Debug\task1calculator.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\obj\x86\Debug\task1calculator.exe
+c:\users\acer\documents\visual studio 2010\Projects\task1calculator\task1calculator\obj\x86\Debug\task1calculator.pdb
